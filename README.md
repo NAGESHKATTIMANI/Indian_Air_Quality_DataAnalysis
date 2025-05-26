@@ -1,25 +1,23 @@
 # Indian_Air_Quality_DataAnalysis
 
-🌫️ Project Title:
+# Project Title:
 Air Quality Index (AQI) Analysis Dashboard for Indian Cities
 
-🧠 Objective:
+# Objective:
 To design an interactive and insightful Power BI dashboard that analyzes air quality trends across major Indian cities, identifying pollution hotspots, dominant pollutants, and seasonal variations to support public awareness and environmental policymaking.
 
-## for dataset: 
+## Dataset used : <a href= "https://github.com/NAGESHKATTIMANI/Indian_Air_Quality_DataAnalysis/blob/main/airqualityindex_data.csv"></a>
 
-📊 Tools & Technologies Used:
+# Tools & Technologies Used:
 Power BI – for data visualization and dashboard creation
 
 Microsoft Excel / Pandas – for data cleaning and preprocessing
 
 Data Source – Central Pollution Control Board (CPCB) / Kaggle AQI datasets
 
-DAX – for calculated columns and KPIs
-
 Maps and Custom Visuals – for geo-spatial analysis
 
-🛠️ Features of the Dashboard:
+# Features of the Dashboard:
 Overall AQI Trends:
 Visualizes AQI over time across different cities to detect improvements or deterioration in air quality.
 
@@ -35,7 +33,7 @@ Allows users to filter data by city, state, AQI category, time period, or specif
 Geo-spatial Mapping:
 Displays AQI levels across the Indian map using color-coded visual indicators.
 
-📈 Insights Derived:
+# Insights Derived:
 Cities like Delhi and Kanpur consistently showed higher AQI values due to PM2.5 and PM10 concentrations.
 
 AQI worsened during the winter months, likely due to inversion and biomass burning.
@@ -43,8 +41,7 @@ AQI worsened during the winter months, likely due to inversion and biomass burni
 Southern cities maintained better air quality compared to northern industrial hubs.
 
 Pollutants like NO₂ and CO showed periodic spikes in high-traffic areas.
-
-🌱 Impact & Applications:
+# Impact & Applications:
 Can be used by policymakers for environmental planning and city-level interventions.
 
 Helps the public understand pollution trends and take preventive actions.
