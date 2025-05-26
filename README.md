@@ -6,7 +6,8 @@ Air Quality Index (AQI) Analysis Dashboard for Indian Cities
 ## Objective:
 To design an interactive and insightful Power BI dashboard that analyzes air quality trends across major Indian cities, identifying pollution hotspots, dominant pollutants, and seasonal variations to support public awareness and environmental policymaking.
 
-## Dataset used : <a href= "https://github.com/NAGESHKATTIMANI/Indian_Air_Quality_DataAnalysis/blob/main/airqualityindex_data.csv"></a>
+## Dataset used : 
+<a href= "https://github.com/NAGESHKATTIMANI/Indian_Air_Quality_DataAnalysis/blob/main/airqualityindex_data.csv"></a>
 
 ## Tools & Technologies Used:
 Power BI – for data visualization and dashboard creation
