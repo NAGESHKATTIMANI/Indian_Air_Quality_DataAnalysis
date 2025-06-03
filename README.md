@@ -43,8 +43,19 @@ Southern cities maintained better air quality compared to northern industrial hu
 
 Pollutants like NO₂ and CO showed periodic spikes in high-traffic areas.
 
-## Images of the dashboard
-<a href = "https://github.com/NAGESHKATTIMANI/Indian_Air_Quality_DataAnalysis/blob/main/main_dashboard.png"></a>
+## Dashboard Images
+ ![main_dashboard](https://github.com/user-attachments/assets/34e71f21-2410-4c51-868d-5599b23e1fb1)
+
+Description : The image below showcases the main AQI dashboard, featuring pollutant breakdowns, city-wise AQI comparisons, yearly trends, and a geo-map highlighting India's most and least polluted cities for easy visual interpretation
+
+![2_nd slide](https://github.com/user-attachments/assets/2cf6eead-fc49-432a-b9c4-0e47d041cc1c)
+
+Description : This dashboard provides an overview of air quality across various cities. It highlights PM10 and PM2.5 levels using gauges and visualizes the chemical composition of air (like Nitrogen Oxides, Ozone, Sulphur Dioxide) through a donut chart.
+
+![3_rd_slide](https://github.com/user-attachments/assets/bb197fa7-15e2-45b8-9b62-81708e75d71c)
+
+Description : This slide uses the Key Influencers visual to identify major factors affecting PM2.5 levels. It shows that higher Nitric Oxide concentrations have the strongest correlation with increased PM2.5 values.
+
 ## Impact & Applications:
 Can be used by policymakers for environmental planning and city-level interventions.
 
