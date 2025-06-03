@@ -42,6 +42,9 @@ AQI worsened during the winter months, likely due to inversion and biomass burni
 Southern cities maintained better air quality compared to northern industrial hubs.
 
 Pollutants like NO₂ and CO showed periodic spikes in high-traffic areas.
+
+## Images of the dashboard
+<a href = "https://github.com/NAGESHKATTIMANI/Indian_Air_Quality_DataAnalysis/blob/main/main_dashboard.png"></a>
 ## Impact & Applications:
 Can be used by policymakers for environmental planning and city-level interventions.
 
